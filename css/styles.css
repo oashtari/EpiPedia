@@ -5,6 +5,7 @@
 }
 
 #navigation {
+  background-color: #e0ebeb;
 
 }
 #body-content {
@@ -29,11 +30,47 @@
 /*Featured, News, On this Day*/
 
 #mpUpper {
-  background-color: blue;
 
 }
+
+#mpUpper h2{
+  font-weight: bold;
+}
+
+.col-md-7 {
+  background-color: #ffbb99;
+}
+
+.article {
+  background-color: #ffccb3;
+  border: solid black 1px;
+  padding:10px;
+}
+
+.col-md-5 {
+  background-color: #ccccff;
+}
+
+.news {
+  background-color: #e6e6ff;
+  border: solid black 1px;
+  padding:10px;
+}
+
 #mpLower {
 
+  background-color: #e6ffee;
+
+}
+
+.FeatPict{
+  background-color: #99ffbb;
+  border: solid black 1px;
+  padding:10px;
+}
+
+#info{
+  padding-top: 80px;
 }
 #mpOther {
 
