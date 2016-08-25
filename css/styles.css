@@ -1,5 +1,46 @@
 /*Body*/
 
 #content {
-  
+
+}
+
+#navigation {
+
+}
+#body-content {
+
+}
+#siteNotice {
+
+}
+/*Welcome to Epipedia..*/
+#topBanner {
+  background-color: #cce6ff;
+}
+
+#welcome {
+  padding-left: 30px;
+}
+
+.col-md-2 {
+  padding-top: 10px;
+}
+
+/*Featured, News, On this Day*/
+
+#mpUpper {
+  background-color: blue;
+
+}
+#mpLower {
+
+}
+#mpOther {
+
+}
+#mpSister {
+
+}
+#mpLanguage {
+
 }
